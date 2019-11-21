@@ -1,5 +1,5 @@
 # SS Insurance
-<h1 align="center">SS Insurance</h1>
+<h1 align="center">SS Insurance App</h1>
 
 <p align="center">
     <img src="src/images/placeholder_logo.png" alt="Temp Logo" width="320">
